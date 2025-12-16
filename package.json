@@ -14,7 +14,7 @@
   "scripts": {
     "lint": "eslint src",
     "docs": "typedoc src",
-    "bundle": "paperback bundle",
+    "bundle": "paperback bundle --no-homepage",
     "serve": "paperback serve",
     "test": "paperback test"
   },
