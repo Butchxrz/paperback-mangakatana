@@ -1,0 +1,10 @@
+{
+  "name": "Butchxrz Paperback Repo",
+  "sources": [
+    {
+      "name": "MangaKatana",
+      "version": "1.0.0",
+      "path": "bundles/MangaKatana"
+    }
+  ]
+}
